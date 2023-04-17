@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from './components/footer'
 
 function App() {
 
@@ -6,7 +7,7 @@ function App() {
     <div className="App">
       <h1>Binary Tree Fit</h1>
       <p>NavBar</p>
-      <p>Footer</p>
+      <Footer />
     </div>
   )
 }
